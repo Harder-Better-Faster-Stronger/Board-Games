@@ -14,20 +14,26 @@ have two of the corners with a white dot, the other two
 without. Therefore there is a 50% chance for each die to come
 up with the dot. This leads to a binomial distribution for the
 dice roll values.
+
     a. The number of dots facing up on the die will be the
     number of spaces that one can move a piece.
+    
     b. When a piece is ready to enter the board, it can be moved
     onto the board at the starting location for a price of one
     movement dot (and then continue moving that piece).
+    
     c. You may also move a piece already on the board the
     number of spaces as dots that are pointing up on the die.
     d. You cannot move a piece when it would end up on top of
     one of your own pieces.
+    
     e. You can move a piece if it will land on an opponent's
     piece, unless that player is on a rosette.
+    
     f. If you land on an opposing piece (they are not on a
     rosette), then you knock their piece off the board and they
     have to start again.
+    
 4. Rosettes are special spaces which do two things:
 a. If a player lands on a rosette, that player gets to roll again.
 b. If a player lands on a rosette and their stone remains
